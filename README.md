@@ -140,7 +140,7 @@ The following DAX measures (or calculated columns) were detected by name from vi
 - Cards detected: **56**
 
 ## 🚀 How to Rebuild Locally
-1. Open `` in **Power BI Desktop**.
+1. Open `https://github.com/HariVikas2119/Car_Sales_-skillshowcase-/blob/main/car_sales.pbix` in **Power BI Desktop**.
 2. Verify **Model view** shows the star schema with:
    - `car_data_fact` 1*-* relationships from `car dim`, `Customer dim`, `Dealer dim`, and `calendar Table`.
 3. Ensure `calendar Table` is marked as **Date table** (Model view → Table tools → Mark as date table).
